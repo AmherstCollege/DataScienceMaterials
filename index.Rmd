@@ -6,24 +6,24 @@ output: html_document
 ---
 
 
-# Data Science Materials
+## Data Science Materials
 
 
 
-## Curriculum materials
+### Curriculum materials
   
   * [Statistical Computing Curriculum Materials (UC/Berkeley)](http://www.stat.berkeley.edu/~statcur)
-    
- 
   * [CS125: Roback and Hall-Holt (St. Olaf College)](http://www.cs.stolaf.edu/wiki/index.php/CS125_F13)  
   * [Introduction to Data Technologies: Paul Murrell (University of Auckland)](https://www.stat.auckland.ac.nz/~paul/ItDT)  
   * [Swirl: Learn R, in R](http://swirlstats.com)
   * [Data Science Specialization (Johns Hopkins University)](https://www.coursera.org/specialization/jhudatascience/1)
 
-## Papers and related resources
+### Papers and related resources
   
   * [Copy of Data Science in the Statistics Curriculum paper on arXiv.org](http://arxiv.org/abs/1410.3127)
   * Nolan and Temple Lang?
   * Precursors?
+  * ASA guidelines
+  * Other things
  
   
