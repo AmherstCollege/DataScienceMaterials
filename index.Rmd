@@ -1,59 +1,29 @@
 ---
 title: "Data Science in the Statistics Curricula: Preparing Students to 'Think with Data'"
 author: "Jo Hardin, Roger Hoerl, Nicholas Horton, and Deb Nolan"
-date: "April 3, 2015"
+date: "April 4, 2015"
 output: html_document
 ---
 
 
 # Data Science Materials
 
+
+
 ## Curriculum materials
   
   * [Statistical Computing Curriculum Materials (UC/Berkeley)](http://www.stat.berkeley.edu/~statcur)
     
-  * Goals:  What we will/won't be doing
-    * Perhaps a slide or two
-      
-  * Get to know your neighbor activity
-      * Don't want to lose too much time here
-      
-  * Other Stat Ed things at JMM
-    * a couple slides pitching sessions, business meeting, Hadley's talk
-      
-    
-      
-### Introduction to RStudio [Nick]
-  * Make sure everyone has a working version of RStudio with mosaic
-    * Usernames and passwords for server
-    * sanity check on local installs
-  * Basic orientation to RStudio
-    * Calculator and other simple R computations
-    * Load a data set?  [Seems like people always want to know this]
-    * Load packages?
-      * I could have what we need set to pre-load or we could show people how to do it
-      
-### Less Volume, More Creativity [Randy]
+ 
+  * [CS125: Roback and Hall-Holt (St. Olaf College)](http://www.cs.stolaf.edu/wiki/index.php/CS125_F13)  
+  * [Introduction to Data Technologies: Paul Murrell (University of Auckland)](https://www.stat.auckland.ac.nz/~paul/ItDT)  
+  * [Swirl: Learn R, in R](http://swirlstats.com)
+  * [Data Science Specialization (Johns Hopkins University)](https://www.coursera.org/specialization/jhudatascience/1)
+
+## Papers and related resources
   
-### Assignment
-
-  * Need to come up with a good idea for this.
-
-## Monday Morning
-
-### Using RMarkdown [Nick]
-  * could start this on Saturday if things go quickly
+  * [Copy of Data Science in the Statistics Curriculum paper on arXiv.org](http://arxiv.org/abs/1410.3127)
+  * Nolan and Temple Lang?
+  * Precursors?
+ 
   
-### Resampling and Bootstrap
-  * Hypothesis testing
-     * Lady Tasting Tea [Randy]
-     * Other examples?
-     
-  * Confidence Intervals
-    * Examples?
-    
-  * Pointer to Tim Hesterberg's paper
-
-### Mention what is in the Compendium
-    
-
