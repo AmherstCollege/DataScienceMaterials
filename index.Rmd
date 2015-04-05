@@ -13,7 +13,7 @@ output: html_document
   * [Computer Science for Mathematicians and Scientists (CS125)](http://www.cs.stolaf.edu/wiki/index.php/CS125_F13): Roback and Hall-Holt (St. Olaf College)
   * [Introduction to Data Technologies](https://www.stat.auckland.ac.nz/~paul/ItDT): Paul Murrell (University of Auckland)
   * [Data Science Specialization](https://www.coursera.org/specialization/jhudatascience/1) (Johns Hopkins University)
-  * [Data Computing Fundamentals](http://rpubs.com/dtkaplan/DCF-Spring2013-Syllabus): Kaplan (Macalester College) plus sample [Restaurant violations](RestaurantViolations.pdf) activity
+  * [Data Computing Fundamentals 2014](http://dtkaplan.github.io/DCF-Course-2014/): Kaplan (Macalester College) ([2013 materials](http://rpubs.com/dtkaplan/DCF-Spring2013-Syllabus)) plus sample [Restaurant violations](RestaurantViolations.pdf) activity
   * [Swirl: Learn R, in R](http://swirlstats.com)
   * [Data Science in R](http://www.crcpress.com/product/isbn/9781482234817): Nolan and Temple Lang (CRC Press)
   * [XML and Web Technologies for Data Sciences with R](http://www.springer.com/us/book/9781461478997): Nolan and Temple Lang (Springer)
