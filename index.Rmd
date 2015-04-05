@@ -6,27 +6,25 @@ output: html_document
 ---
 
 
-## Data Science Materials
-
-
-
 ### Curriculum materials
   
-  * [Statistical Computing Curriculum Materials: Nolan and Temple Lang (UC/Berkeley)](http://www.stat.berkeley.edu/~statcur)
-  * [Introduction to Big Data Analysis: Mark Ward (Purdue)](http://llc.stat.purdue.edu/2014/29000/index.html)
-  * [CS125: Roback and Hall-Holt (St. Olaf College)](http://www.cs.stolaf.edu/wiki/index.php/CS125_F13)  
-  * [Introduction to Data Technologies: Paul Murrell (University of Auckland)](https://www.stat.auckland.ac.nz/~paul/ItDT)  
+  * [Integrating Computing into the Statistics Curricula](http://www.stat.berkeley.edu/~statcur): Nolan and Temple Lang (UC/Berkeley)
+  * [Introduction to Big Data Analysis](http://llc.stat.purdue.edu/2014/29000/index.html): Mark Ward (Purdue)
+  * [Computer Science for Mathematicians and Scientists (CS125)](http://www.cs.stolaf.edu/wiki/index.php/CS125_F13): Roback and Hall-Holt (St. Olaf College)
+  * [Introduction to Data Technologies](https://www.stat.auckland.ac.nz/~paul/ItDT): Paul Murrell (University of Auckland)
+  * [Data Science Specialization](https://www.coursera.org/specialization/jhudatascience/1) (Johns Hopkins University)
+  * [Data Computing Fundamentals](http://rpubs.com/dtkaplan/DCF-Spring2013-Syllabus): Kaplan (Macalester College) plus sample [Restaurant violations](RestaurantViolations.pdf) activity
   * [Swirl: Learn R, in R](http://swirlstats.com)
-  * [Data Science Specialization (Johns Hopkins University)](https://www.coursera.org/specialization/jhudatascience/1)
-  * [Data Computing Fundamentals: Kaplan (Macalester College)](http://rpubs.com/dtkaplan/DCF-Spring2013-Syllabus) plus sample [Restaurant violations](RestaurantViolations.pdf) activity
+  * [Data Science in R](http://www.crcpress.com/product/isbn/9781482234817): Nolan and Temple Lang (CRC Press)
+  * [XML and Web Technologies for Data Sciences with R](http://www.springer.com/us/book/9781461478997): Nolan and Temple Lang (Springer)
 
 ### Papers and related resources
   
-  * [Copy of Data Science in the Statistics Curriculum paper on arXiv.org](http://arxiv.org/abs/1410.3127)
-  * Nolan and Temple Lang?
-  * Setting the stage for data science: integration of data management skills in introductory and second courses in statistics  http://arxiv.org/abs/1502.00318
-  * [American Statistical Association 2014 Curriculum Guidelines for Undergraduate Programs in Statistics](http://www.amstat.org/education/curriculumguidelines.cfm)
-  * http://arxiv.org/abs/1503.05570  A Data Science course for undergraduates
-  * Other things?
+  * [Data science in the statistics curriculum ](http://arxiv.org/abs/1410.3127): Hardin et al (arXiv.org)
+  * [Computing in the statistics curriculum](http://www.stat.berkeley.edu/~statcur/Preprints/ComputingCurric3.pdf): Nolan and Temple Lang (TAS 2010)
+  * [Setting the stage for data science: integration of data management skills in introductory and second courses in statistics](http://arxiv.org/abs/1502.00318): Horton, Baumer, and Wickham (arXiv.org) plus [examples and activities](http://www.amherst.edu/~nhorton/precursors)
+  * American Statistical Association 2014 [Curriculum Guidelines ](http://www.amstat.org/education/curriculumguidelines.cfm) for Undergraduate Programs in Statistics
+  * [A data science course for undergraduates](http://arxiv.org/abs/1503.05570): Baumer (arXiv.org)
+  * [Teaching and learning data visualization: ideas and assignments](http://arxiv.org/abs/1503.00781): Nolan and Perrett (arXiv.org)
  
   
