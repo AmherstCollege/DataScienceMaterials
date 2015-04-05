@@ -1,7 +1,7 @@
 ---
 title: "Data Science in the Statistics Curricula: Preparing Students to 'Think with Data'"
-author: "Jo Hardin, Roger Hoerl, Nicholas Horton, and Deb Nolan"
-date: "April 4, 2015"
+author: "Johanna Hardin, Roger Hoerl, Nicholas J. Horton, and Deborah Nolan"
+date: "April 5, 2015"
 output: html_document
 ---
 
@@ -12,18 +12,21 @@ output: html_document
 
 ### Curriculum materials
   
-  * [Statistical Computing Curriculum Materials (UC/Berkeley)](http://www.stat.berkeley.edu/~statcur)
+  * [Statistical Computing Curriculum Materials: Nolan and Temple Lang (UC/Berkeley)](http://www.stat.berkeley.edu/~statcur)
+  * [Introduction to Big Data Analysis: Mark Ward (Purdue)](http://llc.stat.purdue.edu/2014/29000/index.html)
   * [CS125: Roback and Hall-Holt (St. Olaf College)](http://www.cs.stolaf.edu/wiki/index.php/CS125_F13)  
   * [Introduction to Data Technologies: Paul Murrell (University of Auckland)](https://www.stat.auckland.ac.nz/~paul/ItDT)  
   * [Swirl: Learn R, in R](http://swirlstats.com)
   * [Data Science Specialization (Johns Hopkins University)](https://www.coursera.org/specialization/jhudatascience/1)
+  * [Data Computing Fundamentals: Kaplan (Macalester College)](http://rpubs.com/dtkaplan/DCF-Spring2013-Syllabus) plus sample [Restaurant violations](RestaurantViolations.pdf) activity
 
 ### Papers and related resources
   
   * [Copy of Data Science in the Statistics Curriculum paper on arXiv.org](http://arxiv.org/abs/1410.3127)
   * Nolan and Temple Lang?
-  * Precursors?
-  * ASA guidelines
-  * Other things
+  * Setting the stage for data science: integration of data management skills in introductory and second courses in statistics  http://arxiv.org/abs/1502.00318
+  * [American Statistical Association 2014 Curriculum Guidelines for Undergraduate Programs in Statistics](http://www.amstat.org/education/curriculumguidelines.cfm)
+  * http://arxiv.org/abs/1503.05570  A Data Science course for undergraduates
+  * Other things?
  
   
